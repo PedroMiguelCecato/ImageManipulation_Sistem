@@ -1,6 +1,0 @@
-mascara:
-1 0 -1
-1 0 -1
-1 0 -1
-bias: 10
-ativacao: identidade
